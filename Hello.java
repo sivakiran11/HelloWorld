@@ -6,6 +6,7 @@ public class Hello{
              {
                 System.out.println("Hello World ..");
              }
+            //here the line is commented
     }
 
 }
